@@ -1,0 +1,17 @@
+{
+    "name": "Devisenrechner",
+    "short_name": "Währungsrechner",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "fullscreen",
+    "scope": "/",
+	"start_url": "/index.html",
+	"icons": [
+		{
+		"src": "/Icons/bienenstock_2.png",
+		"sizes": "512x512",
+		"type": "image/png"
+		}
+	],
+	"orientation": "portrait"
+}
